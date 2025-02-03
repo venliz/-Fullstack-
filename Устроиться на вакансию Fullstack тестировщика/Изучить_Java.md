@@ -1,0 +1,64 @@
+- [ ] ООП: принциципы и механизмы в языке
+- [ ] Интерфейс и абстрактный класс
+- [ ] Дженерики
+- [ ] Коллекции
+- [ ] Что такое JVM, JDK, JRE
+- [ ] immutable
+- [ ] SOLID
+- [ ] Перегрузка-переопределение
+- [ ] Модификаторы доступ
+- [ ] Static
+- [ ]Что такое класс «обертка» (wrapper)?
+- [ ]
+- [ ] Работа с исключениями (Иерархия, конструкция try...)
+- [ ] StreamAPI
+- [ ] Многопоточность/параллелизм
+- [ ] JDBC
+- [ ] Методы класса Object
+- [ ] Примитивные и ссылочные
+- [ ] synchronized и volatile
+- [ ] Hibernate -
+- [ ] Что такое класс Assert
+- [ ] String/StringBuilder/StringBuffer, работа со строками
+- [ ] Enum
+- [ ] Stream
+- [ ] ArrayList/LinkedList/Array
+- [ ] Array
+- [ ] Как сравнить объекты-equal hash
+- [ ] instanceof getClass
+- [ ] clone()
+- [ ] checked и unchecked, exception, throw, throws
+- [ ] error и exception
+- [ ] try with resources
+- [ ] Cредства для работы с многопоточностью/синхронизации между потоками wait(), notify() – notifyAll(), join()
+- [ ] Отличие класса Thread от интерфейса Runnable
+- [ ] GoF
+- [ ] Прокси-объект
+- [ ] Как можно реализовать множественное наследование
+- [ ] final, finally и finalize()
+- [ ] Что такое ковариантность типов <T> ?
+- [ ] Optional
+- [ ] int в double Casting
+- [ ] Боксинг (Boxing) и распаковка (Unboxing)
+- [ ] Enumeration и Iterator
+- [ ] fail-fast и fail-safe
+- [ ] transient final static Cloneable
+- [ ] Heap и Stack
+- [ ] Dependency Injection - DI в Spring Framework -----------
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
