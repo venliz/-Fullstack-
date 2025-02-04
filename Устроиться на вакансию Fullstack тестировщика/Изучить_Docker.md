@@ -7,7 +7,7 @@
 - [ ] Что такое Docker
 - [ ] Dockerize GRID
 - [ ] Docker-compose
-- [ ]
+- [ ] Docker Volumes
 - [ ]
 - [ ]
 - [ ]
