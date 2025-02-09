@@ -1,21 +1,18 @@
-- [ ] [Создать Docker-образ](https://habr.com/ru/companies/slurm/articles/701950/)
-- [ ] [Dockerfile](https://habr.com/ru/companies/ruvds/articles/439980/)
-- [ ] [Инструкции](https://tproger.ru/translations/docker-instuction)
-- [ ] [Слои](https://serverspace.ru/support/glossary/docker-layers/)
-- [ ] [Управление контейнерами](https://timeweb.com/ru/community/articles/osnovnye-komandy-docker)
-- [ ] [Управление образами](https://developer.donnoval.ru/docker-commands/)
-- [ ] [Что такое Docker](https://ru.wikipedia.org/wiki/Docker)
-- [ ] [Dockerize GRID](https://testengineer.ru/avtotesty-i-docker/)
-- [ ] [Docker-compose](https://habr.com/ru/companies/ruvds/articles/450312/)
-- [ ] [Docker Volumes]()???
-- [ ]
-- [ ]
-- [ ]
-
-https://habr.com/ru/companies/slurm/articles/528206/
-https://testit.software/blog/post/kak-ispolzovat-docker-v-testirovanii
-https://www.turing.com/interview-questions/docker
-https://www.geeksforgeeks.org/docker-interview-questions/
-https://www.educative.io/blog/top-40-docker-interview-questions
-https://www.fosstechnix.com/docker-interview-questions-and-answers/
-Dockerfile –> Docker Image –> Docker Container
+- [ ] Создать Docker-образ
+  - [Docker: как создавать образы контейнеров и развертывать приложения](https://habr.com/ru/articles/776188/)
+- [ ] Dockerfile
+  - [Docker: как создавать образы контейнеров и развертывать приложения](https://habr.com/ru/companies/ruvds/articles/439980/)
+- [ ] Инструкции
+  - [Основные инструкции Docker](https://tproger.ru/translations/docker-instuction)
+- [ ] Слои
+  - [Docker layers](https://serverspace.ru/support/glossary/docker-layers/)
+- [ ] Управление контейнерами
+  - [Основные команды Docker](https://timeweb.com/ru/community/articles/osnovnye-komandy-docker)
+- [ ] Управление образами
+  - [Сервер: Основные команды Docker](https://developer.donnoval.ru/docker-commands/)
+- [ ] Что такое Docker
+  - [Docker](https://ru.wikipedia.org/wiki/Docker)
+- [ ] Dockerize GRID
+  - [Автотесты и Docker: блиц-практикум](https://testengineer.ru/avtotesty-i-docker/)
+- [ ] Docker-compose
+  - [Руководство по Docker Compose для начинающих](https://habr.com/ru/companies/ruvds/articles/450312/)
